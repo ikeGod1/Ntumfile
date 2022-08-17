@@ -1,0 +1,20 @@
+#main{
+  background-color: gray;
+  font:arial;
+  border-block: 100px;
+}
+#header {
+  background-color: white;
+  font: black;
+  padding: 50px;
+  height: 70px;
+}
+.newsletter{
+  background-color: blue;
+  font-size: 50px;
+  border-block-color: 50px;
+  height: 50px;
+}
+.main{
+background-color: green;
+}
